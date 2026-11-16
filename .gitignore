@@ -1,0 +1,41 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local environments, credentials and generated files
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+*.egg-info/
+*.log
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+.streamlit/secrets.toml
+*.pem
+*.key
+.DS_Store
+Thumbs.db
